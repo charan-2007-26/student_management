@@ -1,4 +1,3 @@
-Here is a clean, professional, and scannable template you can copy and paste directly into your README.md file. Just fill in the brackets [ ] with your specific details.
 🎓 Student Data Management System
 A robust and secure Spring Boot web application integrated with a MySQL database designed to store, manage, and track student records efficiently.
 🚀 Features
